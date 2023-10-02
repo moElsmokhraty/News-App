@@ -1,16 +1,21 @@
-# news_app
+News App
+=============================
+News App is a Flutter application that displays news from different sources using [News API](https://newsapi.org/).
 
-A new Flutter project.
+## Screenshots
 
-## Getting Started
+|                                                                                                                      |                                                                                                                           |
+|:--------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------:|
+| <img alt="News App" src="https://github.com/moElsmokhraty/news_app/blob/master/screenshots/splash.png" width="900"/> | <img alt="News App" src="https://github.com/moElsmokhraty/news_app/blob/master/screenshots/categories.png" width= "900"/> |
+|  <img alt="News App" src="https://github.com/moElsmokhraty/news_app/blob/master/screenshots/home.png" width="900"/>  |   <img alt="News App" src="https://github.com/moElsmokhraty/news_app/blob/master/screenshots/details.png" width="900"/>   |
 
-This project is a starting point for a Flutter application.
+## Used Technologies
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter
+- HTTP
+- News API
+- Url Launcher for viewing News Details details in browser
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Cloning Repo
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+`git clone git@github.com:moElsmokhraty/News App.git`
