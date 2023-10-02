@@ -18,4 +18,4 @@ News App is a Flutter application that displays news from different sources usin
 
 ## Cloning Repo
 
-`git clone git@github.com:moElsmokhraty/News App.git`
+`git clone git@github.com:moElsmokhraty/News-App.git`
