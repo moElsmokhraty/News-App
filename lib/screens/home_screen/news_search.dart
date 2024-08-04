@@ -20,7 +20,7 @@ class NewsSearch extends SearchDelegate {
   @override
   Widget? buildLeading(BuildContext context) {
     return IconButton(
-      onPressed: () {
+       onPressed: () {
         Navigator.pop(context);
       },
       icon: const Icon(Icons.close_outlined),
