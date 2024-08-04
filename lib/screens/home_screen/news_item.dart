@@ -21,7 +21,7 @@ class NewsItem extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.stretch,
           children: [
             CachedNetworkImage(
-              imageUrl: article.urlToImage!,
+              imageUrl: article.urlToImage ?? '',
               filterQuality: FilterQuality.high,
               imageBuilder: (context, imageProvider) => Container(
                 height: 200,
